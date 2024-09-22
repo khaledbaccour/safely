@@ -17,18 +17,50 @@ export default function TabLayout() {
       <Tabs.Screen
         name="index"
         options={{
-          title: 'Home',
+          tabBarShowLabel: false,
+          title: 'Posts',
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={focused ? 'home' : 'home-outline'} color={color} />
+            <TabBarIcon name={focused ? 'people-outline' : 'people-outline'} color={color} focused={focused} />
           ),
         }}
       />
       <Tabs.Screen
-        name="explore"
+        name="(chat)"
         options={{
-          title: 'Explore',
+          tabBarShowLabel: false,
+          title: 'Chat',
           tabBarIcon: ({ color, focused }) => (
-            <TabBarIcon name={focused ? 'code-slash' : 'code-slash-outline'} color={color} />
+            <TabBarIcon name={focused ? 'chatbox-outline' : 'chatbox-outline'} color={color} focused={focused} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="search"
+        options={{
+          tabBarShowLabel: false,
+          title: 'Search',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'search-outline' : 'search-outline'} color={color} focused={focused} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="ask"
+        options={{
+          tabBarShowLabel: false,
+          title: 'Ask',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'help-outline' : 'help-outline'} color={color} focused={focused} />
+          ),
+        }}
+      />
+      <Tabs.Screen
+        name="profile"
+        options={{
+          tabBarShowLabel: false,
+          title: 'Profile',
+          tabBarIcon: ({ color, focused }) => (
+            <TabBarIcon name={focused ? 'settings-outline' : 'settings-outline'} color={color} focused={focused} />
           ),
         }}
       />
