@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Digital Safety Platform
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+An open-source, community-driven, all-in-one digital safety platform designed to protect access to information and freedom of speech. This project is funded through public donations.
 
-## Get started
+## 🌟 Features
 
-1. Install dependencies
+### Privacy and Safety Tools
+- 🔒 End-to-end encrypted file transfer
+- 🌐 TOR connectivity by default
+- 🕵️ Icon obfuscation
+- 💥 Auto-destruct mode + anti-screenshot
+- 📁 Secure file storage (sandbox)
+- 💬 End-to-end encrypted messaging
+- 🎙️ Built-in microphone anonymizer
+- 🧹 Metadata remover and virus scanner
+- 🗑️ Secure file deletion (purge)
+- 📚 Resources library
+- ✅ Integrated checklist
+- 🤖 AI-powered legal matters explainer
 
-   ```bash
-   npm install
-   ```
+### Freedom of Speech Hub
+- 🔍 Invite-only system for journalists (3 journalist verification)
+- 🛡️ AI-assisted monitoring of hate speech and false information
+- 👥 Community-driven reputation system
+- 🕶️ Anonymous posting and reactions
+- 🔎 Evidence-based posts with AI checking of images and manual verification
 
-2. Start the app
+## 🌍 Accessibility
+- Multiple language support
+- Accessibility tags
+- Designed to reach diverse populations
 
-   ```bash
-    npx expo start
-   ```
+## 🔐 Security
+- Hosted on the Tor network to avoid government seizure
+- .onion portal available
 
-In the output, you'll find options to open the app in a
+## 🤝 Contributing
+We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for more details on how you can participate in this project.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 💰 Donations
+This project is funded through public donations. If you find this platform valuable and want to support its development, please consider donating. [Donation information to be added]
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📄 License
+This project is open source and released under the [GNU General Public License v3.0 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html). See the [LICENSE](LICENSE) file for more details.
 
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 🙏 Acknowledgments
+We'd like to thank all the contributors and supporters who make this project possible. Your dedication to digital privacy and freedom of speech drives this project forward.
