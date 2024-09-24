@@ -1,4 +1,4 @@
-# Digital Safety Platform
+# Safely
 
 An open-source, community-driven, all-in-one digital safety platform designed to protect access to information and freedom of speech. This project is funded through public donations.
 
